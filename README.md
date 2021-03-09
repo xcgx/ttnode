@@ -5,7 +5,7 @@
 ## 使用
 
 ```shell
-wget --no-check-certificate https://cdn.jsdelivr.net/gh/ShallowAi/ttnode@main/install.sh && chmod +x install.sh && ./install.sh
+wget --no-check-certificate https://raw.githubusercontent.com/xcgx/ttnode/main/ttnode.sh && chmod +x ttnode.sh && ./ttnode.sh
 ```
 
 ## 许可
